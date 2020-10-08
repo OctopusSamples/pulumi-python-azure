@@ -1,0 +1,8 @@
+name = ('octoaks92')
+location = ('eastus')
+resource_group_name = ('MichaelLevanResources')
+dns_prefix = ("octopusaks92")
+min_count = (1)
+max_count = (1)
+vm_size = ('Standard_D12_v2')
+auto_scaling = (True)
