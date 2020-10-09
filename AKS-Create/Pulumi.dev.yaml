@@ -1,0 +1,3 @@
+config:
+  PythonAKS:clientSecret:
+    secure: AAABAOJaNr21tHiuZvjm/PTdcJD0h3v0+XQkKsqENE1vvgV+eY/uDlb8TwDCK27q26F2TcOmWuEg8emLfOFRoUQh
