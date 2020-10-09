@@ -1,0 +1,6 @@
+config:
+  azure-python-aks:clientSecret:
+    secure: AAABAMVKv3eqEvBH3+Pjdgf1PEXfmrj8XQ1uSu8XjGNOs7+osOggZkvtFh5oJygem2aUytP3jZGBN/LTJXPIyxye
+  azure:environment: public
+  azure:location: WestUS
+  pulumi:template: azure-python
