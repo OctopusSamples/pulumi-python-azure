@@ -1,6 +1,4 @@
 name: PythonAKS
 runtime:
   name: python
-  options:
-    virtualenv: venv
 description: 'AKS Program '
